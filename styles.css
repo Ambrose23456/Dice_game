@@ -1,0 +1,54 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: darkseagreen;
+    font-family: 'Lobster', cursive;
+}
+h1 {
+    font-size: 8rem;
+    color:indianred;
+    display: inline-block;
+}
+.container{
+    margin: 0 auto;
+    text-align: center;
+}
+.players{
+    display: flex;
+    justify-content: center;
+    align-items: centre;
+}
+footer{
+    position: absolute;
+    bottom: 0px;
+    text-align: center;
+    width: 100%;
+    height: 60px;
+    background-color: indianred;
+}    
+.copyright {
+    margin-top: 20px;
+    font-family: 'Lobster', cursive;
+    font-size: 1em;
+    color:aqua;
+}
+.icon{
+    display:inline-block;
+    position: relative;
+    width: 150px;
+}
+.img1{
+    margin-right: 20px;
+}
+.img2{
+margin-left: 20px;
+}
+p {
+    margin-bottom: 20px;
+    margin-top: 10px;
+    color:indianred;
+    font-size: 2em;
+    font-family: 'Indie Flower', cursive;
+}
